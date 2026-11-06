@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Pruebas y cobertura
+coverage/
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Archivos temporales
+tmp/
+temp/
